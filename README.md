@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Ajinkya70
-- 👀 I’m interested in C# and Python
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on python small small projects to gain some experience
-- 📫 You can email if intrested : ajjukaspale70@gmail.com
+Hi, I'm Ajinkya
+
+I’m a Senior Software Developer specializing in .NET and C#.
+My work focuses on building scalable, maintainable applications and writing clean, efficient code.
+
+I’m always interested in exploring new technologies and contributing to impactful projects, especially in the .NET ecosystem.
+
+📫 Reach me at: ajjuskaspale70@gmail.com
 
 <!---
 Ajinkya70/Ajinkya70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
