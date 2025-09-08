@@ -5,7 +5,7 @@ My work focuses on building scalable, maintainable applications and writing clea
 
 I’m always interested in exploring new technologies and contributing to impactful projects, especially in the .NET ecosystem.
 
-📫 Reach me at: ajjuskaspale70@gmail.com
+📫 Reach me at: ajjukaspale70@gmail.com
 
 <!---
 Ajinkya70/Ajinkya70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
